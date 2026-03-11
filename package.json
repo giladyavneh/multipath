@@ -1,0 +1,14 @@
+{
+  "name": "multipath-login-pages",
+  "version": "1.0.0",
+  "description": "Mock app with two independent login flows",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
